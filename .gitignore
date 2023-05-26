@@ -50,3 +50,11 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+Elastic Test.sln
+configuration.json
+*.vs
+*bin
+*obj
+*.user
+publish*
